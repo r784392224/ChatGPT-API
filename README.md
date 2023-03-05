@@ -1,4 +1,5 @@
-# This project is inspired by the work of ddiu.（https://github.com/ddiu8081/chatgpt-demo）
+
+This project is inspired by the work of ddiu.（https://github.com/ddiu8081/chatgpt-demo）
 
 
 # ChatGPT-API Demo
